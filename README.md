@@ -69,7 +69,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allwin1906&theme=react" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=allwin1906&theme=react" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -96,7 +96,7 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: `your.email@example.com`
+- 📧 Email: `allwinedwinofficial@gmail.com`
 - 🔗 [LinkedIn](#)
 - 🌐 [Portfolio Website](#) *(coming soon)*
 - 💬 DM me to collaborate on cool tech projects!
