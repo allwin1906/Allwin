@@ -44,7 +44,7 @@
 > A complete PHP-MySQL based system to manage gym members, trainers, fees, and class schedules.
 - 📂 Tech: HTML, CSS, PHP, MySQL
 - 📊 Features: Member Registration, Trainer Panel, Payment Logs
-- 🌐 [Project Repo](#) | 📸 Screenshots coming soon!
+- 🌐 [Project Repo](https://github.com/allwin1906/Gym-Membership-System) | 📸 Screenshots coming soon!
 
 ---
 
