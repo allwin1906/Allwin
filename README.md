@@ -69,14 +69,17 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AllwinE&theme=react" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allwin1906&theme=react" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AllwinE&show_icons=true&theme=react" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=allwin1906&show_icons=true&theme=react" alt="GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllwinE&layout=compact&theme=react" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allwin1906&layout=compact&theme=react" alt="Top Languages" />
 </p>
+
 
 ---
 
